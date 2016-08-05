@@ -1,4 +1,5 @@
 {
    "phabricator.uri":"http://phabricator.speedx.com/",
-   "project.name":"iosDustbinForPhab"
+   "project.name":"iosDustbinForPhab",
+   "editor":"vim"
 }
